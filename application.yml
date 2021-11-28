@@ -12,9 +12,6 @@ spring:
     name: BOOK-SERVICE
   flyway:
     baseline-on-migrate: true
-
-  profiles:
-    active: dev
   cloud:
     config:
       uri: http://localhost:8787
