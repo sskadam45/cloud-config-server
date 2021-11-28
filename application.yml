@@ -27,5 +27,5 @@ management:
 
 health:
   check:
-    message: book service is up now from config-repo!!!
+    message: book service is up now from git config-repo- changed!!!
 
