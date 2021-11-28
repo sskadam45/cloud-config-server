@@ -15,6 +15,10 @@ spring:
 
   profiles:
     active: dev
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8787
 
 server:
   port: 8989
