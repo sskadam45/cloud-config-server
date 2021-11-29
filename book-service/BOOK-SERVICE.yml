@@ -1,6 +1,6 @@
 health:
   check:
-    message: book service is up now from git hub book service.
+    message: book service is up now from git hub book service...
 eureka:
   client:
     serviceUrl:
