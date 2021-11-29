@@ -1,0 +1,7 @@
+health:
+  check:
+    message: book service is up now from git hub book service...
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
