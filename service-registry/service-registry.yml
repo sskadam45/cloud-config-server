@@ -1,0 +1,12 @@
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    
+server:
+  port: 8761
+
+health:
+  check:
+    message: eureka service registry service is up now from git config-repo.
+
