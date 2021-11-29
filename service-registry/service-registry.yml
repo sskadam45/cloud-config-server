@@ -9,4 +9,3 @@ server:
 health:
   check:
     message: eureka service registry service is up now from git config-repo.
-
