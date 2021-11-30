@@ -22,7 +22,7 @@ management:
 
 health:
   check:
-    message: service is up now from GitHub config-repo ok...
+    message: service is up now from GitHub config-repo.
 
 rabbitmq:
   host: localhost
