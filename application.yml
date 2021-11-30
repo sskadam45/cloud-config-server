@@ -14,7 +14,7 @@ spring:
     baseline-on-migrate: true
   cloud:
     config:
-      uri: http://localhost:8787
+      uri: http://localhost:8888
 
 server:
   port: 8989
@@ -27,7 +27,7 @@ management:
 
 health:
   check:
-    message: book service is up now from git config-repo- changed  ravi...!!!
+    message: book service is up now from git config-repo
 
 rabbitmq:
   host: localhost
